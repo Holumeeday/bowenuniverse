@@ -1,0 +1,45 @@
+.yam{
+    cursor: pointer;
+    margin-bottom: 20px;
+    margin-left: 8px;
+    margin-right: 8px;
+    border: 1px solid lightgrey;
+    border-radius: 10px;
+    min-height: 120px;
+    padding: 15px;
+}
+
+.y1{
+    background-color: #c50227;
+    color: #fff;
+    
+}
+
+.y2 {
+    background-color: #efb92b;
+    color: #000;
+}
+
+.y3 {
+    background-color: #549453;
+    color: #fff;
+}
+
+.y4 {
+    background-color: darkblue;
+    color: #fff;
+}
+
+.y5 {
+    background-color: #549453;
+    color: #fff;
+}
+
+.y6 {
+    background-color: #efb92b;
+    color: #000;
+}
+.y7 {
+    background-color: darkblue;
+    color: #fff;
+}
